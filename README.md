@@ -4,24 +4,24 @@
 some courses we found useful in learning front-end.
 
 ### VS Code
-[Visual Studio Code Can Do That?](https://frontendmasters.com/courses/customize-vs-code/introduction/)
+* [Visual Studio Code Can Do That?](https://frontendmasters.com/courses/customize-vs-code/introduction/)
 
 ### HTML CSS
-[Modern HTML & CSS From The Beginning (Including Sass)](https://www.udemy.com/course/modern-html-css-from-the-beginning/)
-[Complete Intro to Web Development, v2](https://frontendmasters.com/courses/web-development-v2/)
-[Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
+* [Modern HTML & CSS From The Beginning (Including Sass)](https://www.udemy.com/course/modern-html-css-from-the-beginning/)
+* [Complete Intro to Web Development, v2](https://frontendmasters.com/courses/web-development-v2/)
+* [Build Responsive Real World Websites with HTML5 and CSS3](https://www.udemy.com/course/design-and-develop-a-killer-website-with-html5-and-css3/)
 
 ### ADVANCED CSS
-[Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/)
-[CSS Grids and Flexbox in Responsive Web Design](https://frontendmasters.com/workshops/responsive-web-design-flexbox-css-grid/)
+* [Advanced CSS and Sass: Flexbox, Grid, Animations and More!](https://www.udemy.com/course/advanced-css-and-sass/)
+* [CSS Grids and Flexbox in Responsive Web Design](https://frontendmasters.com/workshops/responsive-web-design-flexbox-css-grid/)
 
 ### GIT AND VERSION CONTROLLING
-[Windows Command Line Tutorial](https://www.youtube.com/watch?v=MBBWVgE0ewk)
-[Git Complete: The definitive, step-by-step guide to Git](https://www.udemy.com/course/git-complete/)
-[Git In-depth](https://frontendmasters.com/courses/git-in-depth/)
+* [Windows Command Line Tutorial](https://www.youtube.com/watch?v=MBBWVgE0ewk)
+* [Git Complete: The definitive, step-by-step guide to Git](https://www.udemy.com/course/git-complete/)
+* [Git In-depth](https://frontendmasters.com/courses/git-in-depth/)
 
 ### DEV TOOLS
-[Mastering Chrome Developer Tools](https://frontendmasters.com/courses/chrome-dev-tools/)
+* [Mastering Chrome Developer Tools](https://frontendmasters.com/courses/chrome-dev-tools/)
 
 ### JAVA SCRIPT
 
@@ -46,21 +46,20 @@ some courses we found useful in learning front-end.
 * [JavaScript Performance](https://frontendmasters.com/courses/web-performance/)
 
 ### SVG
-[SVG Essentials & Animation, v2](https://frontendmasters.com/courses/svg-essentials-animation/)
-[Advanced SVG Animations v2](https://frontendmasters.com/workshops/advanced-svg-animations-v2/)
+* [SVG Essentials & Animation, v2](https://frontendmasters.com/courses/svg-essentials-animation/)
+* [Advanced SVG Animations v2](https://frontendmasters.com/workshops/advanced-svg-animations-v2/)
 
 #### Books
 * [SVG Compressed](https://www.goodreads.com/book/show/19025329-svg-compressed)
 
 ### WEBPACK
-[Webpack 4 Fundamentals](https://frontendmasters.com/courses/webpack-fundamentals/)
-[Web Performance with Webpack](https://frontendmasters.com/courses/performance-webpack/)
-[Webpack Plugins System](https://frontendmasters.com/courses/webpack-plugins/)
+* [Webpack 4 Fundamentals](https://frontendmasters.com/courses/webpack-fundamentals/)
+* [Web Performance with Webpack](https://frontendmasters.com/courses/performance-webpack/)
+* [Webpack Plugins System](https://frontendmasters.com/courses/webpack-plugins/)
 
 ### TYPE SCRIPT
-[TypeScript Fundamentals](https://frontendmasters.com/courses/typescript/)
-[Typescript
-Understanding TypeScript - 2021 Edition](https://www.udemy.com/course/understanding-typescript/)
+* [TypeScript Fundamentals](https://frontendmasters.com/courses/typescript/)
+* [TypescriptUnderstanding TypeScript - 2021 Edition](https://www.udemy.com/course/understanding-typescript/)
 
 ### VUE.JS
 
@@ -90,7 +89,7 @@ Understanding TypeScript - 2021 Edition](https://www.udemy.com/course/understand
 * [Visualizations using SVG, Canvas, and WebGL in Vue with Chris Fritz](https://www.youtube.com/watch?v=S9WKmeQcZjc&list=PLJNLwTPak6diYxk8TFz9fPWvjsryV2ygv)
 
 ## Nuxt.JS
-[Nuxt.js - Vue.js on Steroids](https://www.udemy.com/course/nuxtjs-vuejs-on-steroids/)
+* [Nuxt.js - Vue.js on Steroids](https://www.udemy.com/course/nuxtjs-vuejs-on-steroids/)
 
 ## React
 
@@ -108,5 +107,5 @@ Understanding TypeScript - 2021 Edition](https://www.udemy.com/course/understand
 * Road to react **- Robin Wieruch**
 
 ## Next.JS
-[Learn Next.js](https://masteringnextjs.com/#course-overview)
-[Universal React with Next.js - The Ultimate Guide](https://www.udemy.com/course/universal-react-with-nextjs-the-ultimate-guide/)
+* [Learn Next.js](https://masteringnextjs.com/#course-overview)
+* [Universal React with Next.js - The Ultimate Guide](https://www.udemy.com/course/universal-react-with-nextjs-the-ultimate-guide/)
