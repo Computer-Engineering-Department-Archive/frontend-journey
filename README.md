@@ -148,14 +148,16 @@ A full learning path carefully designed to boost your frontend skills
 
 ## Angular
 
-* [Basics learning](https://www.youtube.com/watch?v=k5E2AVpwsko&list=PLTjRvDozrdlxAhsPP4ZYtt3G8KbJ449oT)
-* [33 parts to learn angular](https://www.freecodecamp.org/news/want-to-learn-angular-heres-our-free-33-part-course-by-dan-wahlin-fc2ff27ab451/)
+* [Learning Angular step by step](https://angular-templates.io/tutorials/about/learn-angular-from-scratch-step-by-step)
+* [Basics learning of Angular](https://www.youtube.com/watch?v=k5E2AVpwsko&list=PLTjRvDozrdlxAhsPP4ZYtt3G8KbJ449oT)
+* [33 parts to learn Angular](https://www.freecodecamp.org/news/want-to-learn-angular-heres-our-free-33-part-course-by-dan-wahlin-fc2ff27ab451/)
 
 #### Official
 
 * [Official Website](https://angular.io/) 
-* [Official github repository](https://github.com/angular/angular)
+* [Official Github repository](https://github.com/angular/angular)
+* [Official Angular university](https://github.com/angular-university)
 
 #### Books
 
-* Learning Angular - Third Edition **-By Aristeidis Bampakos , Pablo Deeleman **
+* Learning Angular - Third Edition **- By Aristeidis Bampakos , Pablo Deeleman**
